@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+To avoid Debouncing made use of Authentication
 Live HERE :https://facebook-clone-e3191.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
